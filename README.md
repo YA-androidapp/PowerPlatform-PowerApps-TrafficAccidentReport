@@ -1,0 +1,2 @@
+# PowerPlatform-PowerApps-TrafficAccidentReport
+ Power Apps キャンバスアプリとモデル駆動型アプリで実装した交通事故報告アプリ
